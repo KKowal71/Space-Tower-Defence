@@ -3,6 +3,9 @@ Opis:
 Gra z użyciem elementó SVG oraz JaavScript była jednym z zadań zaliczeniowych w ramach studiów.
 Polega ona na tym, żeby zestrzelić jak najwięcej pojazdów, które próbują przedostać się do bazy.
 Nie da się jej wygrać, chodzi o to, żeby uzyskać jak najwyższy wynik.
+Im wyższy wynik uzykuje się w trakcie gry, wrogie pojazdy zaczynają poruszać się z większą szybkością.
+Podczas rogrywki pojawiają się bonusy takie jak: apteczka, przyspieszenie pocisków, przyspieszenie poruszania się.
+Aby je uzyskać trzeba w nie trafić.
 
 Sterowanie:
 AD / strzałki lewo, prawo - poruszanie się
