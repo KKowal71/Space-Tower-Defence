@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" id="svg"
+      xmlns:html="http://www.w3.org/1999/xhtml">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="TowerDefence.css" type="text/css"/>
+    <title>TowerDefenceJK</title>
+
+    <rect id="mainWindow" width="100%" height="100%" fill="white"/>
+    <rect id="info" x="75%" width="25%" height="100%" fill="#8D8B92" stroke="black" stroke-width="5px"/>
+    <rect id="game" width="75%" height="100%" fill="#040112"/>
+    <image id="battle" href="zdjecia/bitwa.png" y="0" width="75%" height="100%"/>
+    <rect id="tower" width="75%" height="15%" fill="#636268" y="700"/>
+    <rect id="myHp" width="300" height="5%" fill="green" x="77%" y="10%"  stroke="black" stroke-width="3px"/>
+    <rect id="lostHp" width="0" height="5%" fill="red" x="77%" y="10%"  stroke="black" stroke-width="3px"/>
+    <rect class="rect" x="78%" y="70%" width="20%" height="25%" fill="#FFEBCD" rx="20" ry="20" stroke="black" stroke-width="3px"/>
+    <rect class="rect" x="78%" y="34%" width="20%" height="25%" fill="#FFEBCD" rx="20" ry="20" stroke="black" stroke-width="3px"/>
+
+    <circle id="bullet1" cx="616" cy="540" r="12" stroke="black" fill="#ff3d3d"/>
+    <circle id="bullet2" cx="690" cy="540" r="12" stroke="black" fill="#ff3d3d"/>
+    <foreignObject style="height:80px;width:120px;" x="1250" y="140" fill="red">
+        <html:button class="button" onclick="play()">START</html:button>
+    </foreignObject>
+    <foreignObject style="height:80px;width:120px;" x="1250" y="200" fill="red">
+        <html:button class="button" onclick="pause()">PAUZA</html:button>
+    </foreignObject>
+
+
+    <image id="soldier" href="zdjecia/dzialko.png" x="550" y="500"/>
+    <image id="bomb" href="zdjecia/atak.png" y="-250" width="220"/>
+    <image id="bum" href="zdjecia/wybuch.png" y="-250" width="270" height="250"/>
+    <image id="heal" href="zdjecia/apteczka.png" x="100" y="-700" width="170" height="170"/>
+    <image id="shootBoost" href="shootBoost.png" x="200" y="-1200" width="170" height="170"/>
+    <image id="movementBoost" href="moveBoost.png" x="300" y="-1700" width="170" height="170"/>
+
+    <text x="83%" y="78%" font-size="25px">STEROWANIE</text>
+    <text x="86%" y="8%" font-size="25px" fill="black">HP</text>
+    <text x="82%" y="84%" font-size="18px">A/strzalka w lewo - lewo</text>
+    <text x="82%" y="86%" font-size="18px">D/strzalka w prawo - prawo</text>
+    <text x="82%" y="90%" font-size="18px">Shift- strzał</text>
+    <text x="83%" y="40%" font-size="40">WYNIK</text>
+    <text x="86%" y="53%" font-size="60" id="score"> </text>
+
+    <rect id="endWindow" width="100%" height="100%" fill="black" x="-155%" y="-155%"/>
+    <text x="-200" y="-200" fill="red" font-size="60" id="endText">YOU LOST</text>
+    <image id="lostImage" href="zdjecia/lost.png" x="-1220" y="-1460" width="200" height="200">
+        <animateMotion dur="8s" repeatCount="indefinite" path="M-220,20 L1250,20"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 120 560" to="360 120 560" dur="4s" repeatCount="indefinite"/>
+    </image>
+    <foreignObject id="restart" style="height:150px;width:220px;" x="-250" y="-600" fill="red" visibility="visible">
+        <html:button class="button1" onclick="refresh()">RESTART</html:button>
+    </foreignObject>
+
+    <script href="TowerDefence.js"></script>
+</svg>

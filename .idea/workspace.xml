@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f86292-142a-4bff-bd8d-2b5d6ed40855" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gierka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowerDefence.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowerDefence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowerDefence_JK.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/Przechwytywanie.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/Przechwytywanie.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/TowerDefence_JK.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/apteczka.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/apteczka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/atak.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/atak.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/bitwa.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/bitwa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/dzialko.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/dzialko.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/lost.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/lost.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/moveBoost.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/moveBoost.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/shootBoost.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/shootBoost.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceGameProject/wybuch.png" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia/wybuch.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MQerJmstGq0oMd3p2TYxlHbO0I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jkowa/Desktop/lifestyle/Proggramming/Gierka",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f86292-142a-4bff-bd8d-2b5d6ed40855" name="Changes" comment="" />
+      <created>1677704430182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677704430182</updated>
+      <workItem from="1677704431391" duration="15000" />
+      <workItem from="1677704488727" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
